@@ -6,7 +6,7 @@ The 2 folders "Client" and "Server" contains standalone client-side and server-s
 
 [![Project GUI](https://img.youtube.com/vi/2FWicBlSNCI/0.jpg)](https://youtu.be/2FWicBlSNCI)
 
-Click the image above to see a demonstration video on YouTube.
+**Click** the image above to see a demonstration video on **YouTube**.
 
 ### Why This Project?
 This project is a part of the undergraduate course titled **Distributed and Cloud Computing Lab** that I took.
